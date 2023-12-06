@@ -16,4 +16,4 @@ spec:
         - name: lairdptestflaskcloudrun 
           image: labo5test.azurecr.io/lairdptestflaskcloudrun
           ports:
-          - containerPort: 8080
+          - containerPort: 80
